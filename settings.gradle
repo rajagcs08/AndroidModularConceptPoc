@@ -1,0 +1,6 @@
+include ':tracking'
+include ':wallet'
+include ':authorization'
+include ':utilities'
+include ':app'
+rootProject.name = "ModularPoc"
